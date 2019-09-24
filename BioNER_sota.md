@@ -41,7 +41,7 @@ The CHEMDNER corpus consists of 10,000 PubMed abstracts, which contains a total 
 
 | Method | P | R | F1 | Paper | 
 | ----------- | :----:| :----: | :----: | --- |
-| TaggerOne ((Leaman and Lu, 2016) | 94.20 | 88.80 | 91.40 | [TaggerOne: joint named entity recognition and normalization with semi-Markov Models](https://academic.oup.com/bioinformatics/article/32/18/2839/1744190)|
+| TaggerOne (Leaman and Lu, 2016) | 94.20 | 88.80 | 91.40 | [TaggerOne: joint named entity recognition and normalization with semi-Markov Models](https://academic.oup.com/bioinformatics/article/32/18/2839/1744190)|
 | BiLSTM-CRF (Lample et al., 2016), Luo et al. (2018) rebuilt the model on the dataset | 92.82 | 88.52 | 90.62 | [Neural architectures for named entity recognition](https://arxiv.org/abs/1603.01360)|
 | Att-BiLSTM-CRF (Luo et al., 2018) | 93.49 | 91.68 | 92.57 | [An attention-based BiLSTM-CRF approach to document-level chemical named entity recognition](https://academic.oup.com/bioinformatics/article/34/8/1381/4657076)|
 | D3NER (Dang et al., 2018) | 93.73 | 92.56 | 93.14 | [D3NER : biomedical named entity recognition using CRF-biLSTM improved with fine-tuned embeddings of various linguistic information](https://academic.oup.com/bioinformatics/article-abstract/34/20/3539/4990492)|
@@ -99,7 +99,7 @@ The [NCBI Disease corpus](https://www.sciencedirect.com/science/article/pii/S153
 
 | Method | P | R | F1 | Paper | 
 | ----------- | :----:| :----: | :----: | --- |
-| BiLSTM-CRF (Lample et al., 2016) </br> Wang et al. (2019) rebuilt the model on the dataset | 81.57 | 79.48 | 80.51 | [Neural architectures for named entity recognition](https://arxiv.org/abs/1603.01360)|
+| BiLSTM-CRF (Lample et al., 2016), Wang et al. (2019) rebuilt the model on the dataset | 81.57 | 79.48 | 80.51 | [Neural architectures for named entity recognition](https://arxiv.org/abs/1603.01360)|
 | CollaboNet (Yoon et al., 2018) | 80.49 | 78.99 | 79.73 | [CollaboNet: Collaboration of deep neural networks for biomedical named entity recognition](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2813-6)|
 | BiLM-NER (Sachan et al., 2018) | 81.81 | 81.57 | 81.69 | [Effective Use of Bidirectional Language Modeling for Transfer Learning in Biomedical Named Entity Recognition](http://proceedings.mlr.press/v85/sachan18a.html)|
 | MTM-CW (Wang et al., 2019) | 82.10 | 79.42 | 80.74 | [Cross-type biomedical named entity recognition with deep multi-task learning](https://academic.oup.com/bioinformatics/article-abstract/35/10/1745/5126922?redirectedFrom=fulltext)|
