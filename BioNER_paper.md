@@ -4,7 +4,7 @@ A paper list for BioNER
 
 Over the past decades, many automatic BioNER methods have been proposed and used to recognise biomeidcal entities. They can be categorised into dictionary-based, rule-based and machine learning-based methods. Recently, neural network-based machine learning methods exhibit promising results.
 
-![image](C:/Users/rober/Desktop/image/trend.png)
+![image](/image/trend.png)
 
 ## Survey Papers ##
 1. **Overview of BioCreative II gene mention recognition**. Smith L, Tanabe L K, nee Ando R J, et al. *Genome biology*, 2008, 9(2): S2. [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-s2-s2)
