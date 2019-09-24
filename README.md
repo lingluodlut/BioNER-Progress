@@ -1,10 +1,10 @@
 # BioNER Progress #
 ## Introduction ##
-**Named entity recognition (NER)** is the problem of finding references to entities (mentions) in natural language text, and labeling them with their location and type. In biomeidcal domain, **biomedical NER (BioNER)** focus on the biomedical entities like gene, protein, chemical, disease, mutation, etc. 
+**Named entity recognition (NER)** is the problem of finding references to entities (mentions) in natural language text, and labeling them with their location and type. In biomedical domain, **biomedical NER (BioNER)** focuses on the biomedical entities like gene, protein, chemical, disease, mutation, etc. 
 
 ![image](/image/bioner.png)
 
- This repository aims to track the progress in BioNER and give a related paper list and an overview of the state-of-the art (SOTA).
+ This repository aims to track the progress in BioNER and give a related paper list and an overview of the state-of-the-art (SOTA).
 ## Contents ##
 - [Papers](BioNER_paper.md)
     - Survey Papers
