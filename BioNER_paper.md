@@ -2,7 +2,7 @@
 
 A paper list for BioNER
 
-Over the past decades, many automatic BioNER methods have been proposed and used to recognise biomeidcal entities. They can be categorised into dictionary-based, rule-based and machine learning-based methods. Recently, neural network-based machine learning methods exhibit promising results.
+Over the past decades, many automatic BioNER methods have been proposed and used to recognize biomedical entities. They can be categorized into dictionary-based, rule-based and machine learning-based methods. Recently, neural network-based machine learning methods exhibit promising results.
 
 ![image](/image/trend.png)
 
