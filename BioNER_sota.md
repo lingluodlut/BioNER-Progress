@@ -144,7 +144,7 @@ The [NCBI Disease corpus](https://www.sciencedirect.com/science/article/pii/S153
 
 ### LINNAEUS corpus ###
 
-[The LINNAEUS corpus](https://academic.oup.com/bioinformatics/article-abstract/23/14/1862/188647): A set of open access documents in text format, manually annotated for species mention tags. It consists of 100 full-text documents from the PMC OA document, which contains a total of 4,259 species entity mentions.
+[The LINNAEUS corpus](http://linnaeus.sourceforge.net/): A set of open access documents in text format, manually annotated for species mention tags. It consists of 100 full-text documents from the PMC OA document, which contains a total of 4,259 species entity mentions.
 
 | Method | P | R | F1 | Paper | 
 | ----------- | :----:| :----: | :----: | --- |
